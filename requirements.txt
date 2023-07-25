@@ -1,0 +1,7 @@
+tensorflow
+keras
+fastavro
+boto3
+Mangum
+fastapi
+uvicorn
